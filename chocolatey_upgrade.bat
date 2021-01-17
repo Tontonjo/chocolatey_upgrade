@@ -1,6 +1,6 @@
 @echo off
 
-REM Tonton Jo - 2020
+REM Tonton Jo - 2021
 REM Join me on Youtube: https://www.youtube.com/c/tontonjo
 
 REM Script to update all chocolatey installed application
