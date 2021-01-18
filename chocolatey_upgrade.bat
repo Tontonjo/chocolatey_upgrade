@@ -9,5 +9,5 @@ REM Logs are written at root of c: drive: c:\choco_upgrade_log.txt
 REM Version 1.0
 
 echo START at %DATE% - %TIME% -------------------------------------------- >> "c:\choco_upgrade_log.txt"
-choco upgrade -y all >> "c:\choco_upgrade_log.txt"
+choco upgrade -y --no-progress all >> "c:\choco_upgrade_log.txt"
 echo END ----------------------------------------------------------------- >> "c:\choco_upgrade_log.txt"
