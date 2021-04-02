@@ -13,5 +13,5 @@ REM Version 1.1: add --no-progress to reduce logs size in case of update is foun
 REM Version 1.1
 
 echo START at %DATE% - %TIME% -------------------------------------------- >> "c:\choco_upgrade_log.txt"
-choco upgrade -y --no-progress all >> "c:\choco_upgrade_log.txt"
+choco upgrade -y -r --no-progress all >> "c:\choco_upgrade_log.txt"
 echo END ----------------------------------------------------------------- >> "c:\choco_upgrade_log.txt"
