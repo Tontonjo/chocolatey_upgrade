@@ -8,10 +8,10 @@ it is executed by a scheduled task that you can find there and import to get all
 
 # Usage:
 
-Install Chocolatey and use it to install your applications:
+Install Chocolatey and use it to install your applications:  
 https://www.youtube.com/watch?v=sm3-mGUxdXo
 
-Create and place script in C:\scripts as "C:\scripts\choco_upgrade.bat"
+Create and place script in C:\scripts as "C:\scripts\choco_upgrade.bat"  
 Open task scheduler, left click on task scheduler library and import choco_upgrade.xml
 Save and enter password when asked for (needed for highest privilege execution)
 
