@@ -1,7 +1,7 @@
 # chocolatey_upgrade
 
 # Tonton Jo - 2021
-# Join me on Youtube: https://www.youtube.com/c/tontonjo
+Join me on Youtube: https://www.youtube.com/c/tontonjo
 
 This script aims to update all the applications installed using Chocolatey.
 it is executed by a scheduled task that you can find there and import to get all the settings i use
