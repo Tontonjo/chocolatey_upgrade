@@ -46,7 +46,7 @@
   </Settings>
   <Actions Context="Author">
     <Exec>
-      <Command>C:\scripts\choco_upgrade.bat</Command>
+      <Command>C:\scripts\chocolatey_upgrade.bat</Command>
     </Exec>
   </Actions>
 </Task>
